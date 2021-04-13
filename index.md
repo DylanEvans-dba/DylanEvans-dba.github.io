@@ -6,7 +6,7 @@
 
 ## First Enhancement and Narrative
 
-[First Enhancement Files](DylanEvans-dba.github.io/Milestone 2 Artifacts/)
+[First Enhancement Files](https://github.com/DylanEvans-dba/DylanEvans-dba.github.io/tree/main/Milestone%202%20Artifacts)
    
 The first artifact that I have decided to examine is a restfull API written in  
 Python that I developed for a stock ticker application that I was assigned to  
