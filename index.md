@@ -5,13 +5,14 @@
 ## Code Review
 
 ## First Enhancement and Narrative
-  RETURN
-	The first artifact that I have decided to examine is a restfull API written in  RETURN
-Python that I developed for a stock ticker application that I was assigned to  RETURN
-produce for CS-340 a few terms back, so late 2020. It functioned as an intermediary  RETURN
-between the front-end stock ticker application and the back-end MongoDB database that  RETURN
-stored the stock information as JSON data.  RETURN
-	  RETURN 
+
+| Paragraph |   
+	The first artifact that I have decided to examine is a restfull API written in  
+Python that I developed for a stock ticker application that I was assigned to  
+produce for CS-340 a few terms back, so late 2020. It functioned as an intermediary  
+between the front-end stock ticker application and the back-end MongoDB database that  
+stored the stock information as JSON data.  |
+
 	I chose this artifact because it encompasses several facets of software design in   RETURN
 my mind. It is a Python-based API that was written for a web-based application with a   RETURN
 MongoDB database on the backend that stores data in JSON format and whose native query   RETURN
