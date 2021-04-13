@@ -66,4 +66,12 @@ the comments of this artifact to help clarify exactly what each part of the arti
 cleaning up the existing comments, improving readability and adding more detail, I have also added 
 several more comments to each section of the code. 
 
+## Third Enhancement and Narrative
 
+[Third Enhancement Files](https://github.com/DylanEvans-dba/DylanEvans-dba.github.io/tree/main/Milestone%204)
+
+For my final artifact which represents my experience with Databases, I decided to chose a query that I recently optimized at work. This query served as the language behind a pre-built search that our users could run in our CRM known as a “Smartfolder”. These smarfolders query the SQL database to pull rows of data from client files. This allows our users to easily find files that meet pre-determined criteria so they can more easily perform their jobs. A few users in our company apart from myself can write SQL queries so they are able to add or edit smartfolders as needed. This query was originally written by one such user. 
+
+The query was brought to my attention when I received a ticket that complained of slowness in our CRM. After investigating I determined that the issue lied with the smartfolder that uses this query. While the query was fairly straightforward by our usual standards, it was taking over 30 seconds to execute in the database and the execution plan showed that every single row in multiple tables was being read multiple times.
+
+My first step in troubleshooting was to clean up the formatting to improve readability. The query was originally a jumble of code with no indentation or proper spacing and it didn’t follow SQL formatting standards. With everything cleaned up, I noticed that there was an OR operator at the bottom of the WHERE clause that had been left out of a parenthetical in the previous line. I moved the close parenthesis down to its correct position and the query executed in less than a second. This again has solidified my belief in the importance of readability and proper formatting. 
