@@ -24,7 +24,7 @@ connected them.
 Moving on from poetic waxing, a lot of testing went into the design of this API 
 at the time that I was designing the project, but in all honesty so much time has passed 
 that I’m afraid any serious “enhancements” I would make to the code would only result in 
-less-than-desirable outcomes. As such, I have opted to improve the artifact by improving  
+less-than-desirable outcomes. As such, I have opted to improve the artifact by improving 
 readability. While the code is (debatably) about as cleanly formatted and readable as it  
 could be, I felt the comments could use some cleaning up and clarifying. I have unified the   
 formatting of existing comments by enforcing grammatical standards throughout. I have also   
@@ -44,5 +44,5 @@ be thankful for the time taken to make their life easier.
 While enhancing this artifact have less learned than reinforced my stance on readability   
 of code. Looking over my comments from the pre-enhanced artifact where its mix of punctuation   
 standards as well as grammatical spacing and capitalization made it difficult to differentiate   
-code from comment in some instances. I hope that my added enhancements has remedied this issue   
+code from comment in some instances. I hope that my added enhancements has remedied this issue 
 and made future me, as well as anyone else reading this code, a bit more at ease.   
