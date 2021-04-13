@@ -12,7 +12,7 @@ produce for CS-340 a few terms back, so late 2020. It functioned as an intermedi
 between the front-end stock ticker application and the back-end MongoDB database that 
 stored the stock information as JSON data. 
 	
-	I chose this artifact because it encompasses several facets of software designin 
+	I chose this artifact because it encompasses several facets of software design in 
 my mind. It is a Python-based API that was written for a web-based application with a 
 MongoDB database on the backend that stores data in JSON format and whose native query 
 language was JavaScript. This API effectively represents the centerpiece of a collection 
