@@ -4,6 +4,8 @@
 
 ## Code Review
 
+[![](http://img.youtube.com/vi/lm5LciJP5fw/0.jpg)](http://www.youtube.com/watch?v=lm5LciJP5fw "Code Review Example Video")
+
 ## First Enhancement and Narrative
 
 [First Enhancement Files](https://github.com/DylanEvans-dba/DylanEvans-dba.github.io/tree/main/Milestone%202%20Artifacts)
