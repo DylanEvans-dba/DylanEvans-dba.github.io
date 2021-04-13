@@ -47,3 +47,21 @@ of code. Looking over my comments from the pre-enhanced artifact where its mix o
 standards as well as grammatical spacing and capitalization made it difficult to differentiate   
 code from comment in some instances. I hope that my added enhancements has remedied this issue 
 and made future me, as well as anyone else reading this code, a bit more at ease.   
+
+## Second Enhancement and Narrative
+
+[Second Enhancement Files](https://github.com/DylanEvans-dba/DylanEvans-dba.github.io/tree/main/Milestone%203)
+
+The second artifact that I selected is a Java application that I wrote for CS-320 that functioned 
+as an interface and data storage solution for a medical practice. It features user login logic, 
+menu options, and tons of underlying functionality associated with those options that it calls 
+from other files. 
+
+I chose this artifact as my example for algorithms and data structures because it features several 
+algorithms as part of its functional logic including while loops, if loops, and switch cases. It 
+also stores menu items as a list and calls that list to populate the menu. I have decided to improve 
+the comments of this artifact to help clarify exactly what each part of the artifact does. After 
+cleaning up the existing comments, improving readability and adding more detail, I have also added 
+several more comments to each section of the code. 
+
+
