@@ -2,6 +2,31 @@
 
 ## Professional Assessment
 
+My name is Dylan Evans and I currently work as a SQL Server DBA. While I have worked in the IT field for about ten years now, 
+the breadth of knowledge that I have gained in my four years here at SNHU far exceeds what I have learned working in the industry. 
+Completing the coursework throughout this course in particular has helped me to showcase my strengths in the field of computer 
+science by sharing a small portion of what I’ve learned during my time here at SNHU. 
+
+I’ve learned to work collaboratively in team settings via discussion boards in every class as well more direct collaborations such 
+as peer code reviews in CS-310. I’ve learned to communicate plans and progress with stakeholders in courses like CS-465 and CS-470 
+which focused on Full Stack Development. In almost every course I have learned at least one thing about data structures and 
+algorithms, even learning how to construct JUnit tests in CS-320 to test the data structures and algorithms I created for the course. 
+I’ve learned software engineering in multiple courses which have allowed me to develop applications in languages ranging from Python 
+and Java to C++. I have even been able to expand my knowledgebase as a DBA to include NoSQL databases such as MongoDB and DynamoDB in 
+CS-465 and CS-470.
+
+In the sections below, you will find several artifacts that I hope will exemplify at least some of what I have learned during my time 
+here at SNHU. First you will find a video example of me reviewing some of my code from a previous course. After that are three code 
+enhancements and accompanying narratives that explain why I decided to make the changes. The narratives and enhancements emphasize my 
+firmly held belief in the importance of formatting and readability in code. In the first two enhancements, I cleaned up the formatting 
+of existing comments and added more to improve readability for myself as well as future programmers. Being able to quickly tell what a 
+section of code is meant to do without having to decipher the code itself could save an incredible amount of time in a software 
+development setting. I decided to use a SQL query from my job for my third enhancement and narrative to help show how what I have 
+learned here at SNHU has already affected my professional life. The query in question was taking far longer than it should have to 
+execute and returning more results than was necessary. After cleaning up the formatting using best practices that I’ve learned here, 
+the solution was much easier to find and fix. 
+
+
 ## Code Review
 
 [![](http://img.youtube.com/vi/lm5LciJP5fw/0.jpg)](http://www.youtube.com/watch?v=lm5LciJP5fw "Code Review Example Video")
